@@ -1,4 +1,4 @@
-https://github.com/cjohnson1088/hw_mq_johnson_caitlin.git
+[Link to My GitHub Repo](https://github.com/cjohnson1088/hw_mq_johnson_caitlin.git)
 
 # Resources
 I did not use any resources outside of the lectures and my notes on this assignment.”
